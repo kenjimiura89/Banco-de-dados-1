@@ -1,1 +1,1 @@
-Estudo de intridução sobre banco de dados.
+Estudo de introdução ao banco de dados.
